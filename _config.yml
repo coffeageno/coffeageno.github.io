@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "季诺澄 Ji Nuocheng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "上海交通大学智能车实验室博士"
+  location         : "中国上海"
+  employer         : "上海交通大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "coffeageno@sjtu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
